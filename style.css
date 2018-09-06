@@ -27,3 +27,6 @@ img {
 .card {
   background-color: #fce0cd;
 }
+.card-img-top {
+  border-radius: 0%;
+}
