@@ -1,8 +1,9 @@
 body {
   font-family: sans-serif;
+  background-color: #f7f7f7;
 }
 h1 {
-  color: rgb(179, 94, 17);
+  /* color: rgb(179, 94, 17); */
   text-align: center;
 }
 h3 {
@@ -17,6 +18,15 @@ ul {
 .info {
   text-align: center;
 }
-.brand {
+#resume {
   text-align: center;
+}
+img {
+  border-radius: 50%;
+}
+#img {
+  text-align: center;
+}
+.card {
+  background-color: #fce0cd;
 }
