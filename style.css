@@ -29,4 +29,5 @@ img {
 }
 .card-img-top {
   border-radius: 0%;
+  height: 300px;
 }
